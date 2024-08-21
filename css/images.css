@@ -55,15 +55,6 @@ width: 50%;
 	background-image: linear-gradient(rgba(255, 255, 0, 1.0), rgba(0, 0, 255, 0.5)), url(https://static.vecteezy.com/system/resources/thumbnails/001/849/553/small_2x/modern-gold-background-free-vector.jpg);
 background-size: cover;
 }
-#six{
-	width: 600px;
-	height: 400px;
-	margin: 60px;
-	box-shadow: 0px 0px 100px purple;
-	border-radius: 50%;
-	background-image: url(https://www.shutterstock.com/image-vector/modern-world-map-vector-isolated-260nw-2476579731.jpg);
-background-size: cover;
-}
 #seven{
 	width: 400px;
 	height: 400px;
